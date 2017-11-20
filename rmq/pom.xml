@@ -35,6 +35,6 @@
 	<modules>
 		<module>../rmq-app1</module>
 		<module>../rmq-app2</module>
-		
+
 	</modules>
 </project>
